@@ -1,5 +1,5 @@
 # pg
-Pass Gen Tool For Kali Linux, Ubuntu &amp; Termux
+Password Genaretor Tool For Kali Linux, Ubuntu &amp; Termux
 
 # Installation
 - <code>apt-get upgrade & pkg upgrade</code><br>

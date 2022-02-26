@@ -1,8 +1,6 @@
-GNU nano 6.2                     up.sh
 #!/bin/bash
 rm pg
 rm p
-rm pg.sh
 cd /data/data/com.termux/files/usr/bin
 rm pg
 

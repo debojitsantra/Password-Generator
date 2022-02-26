@@ -8,6 +8,8 @@ Password Genaretor Tool For Kali Linux, Ubuntu &amp; Termux
 - <code>wget https://raw.githubusercontent.com/darkesoul/pg/main/pg.sh</code><br>
 - <code>chmod +x pg.sh</code><br>
 - <code> ./pg.sh </code><br>
+## Update
+- Delete script by using <code>rm pg.sh</code> & Reinstall This
 
 # Installation & Update (Only Termux)
 - <code>pkg upgrade & pkg upgrade</code><br>

@@ -6,6 +6,6 @@ Pass Gen Tool For Kali Linux, Ubuntu &amp; Termux
 - pkg install git
 - pkg install wget
 - pkg install sharutils
-- <code>wget https://raw.githubusercontent.com/darkesoul/pg/main/pg.sh</code>
+- wget https://raw.githubusercontent.com/darkesoul/pg/main/pg.sh
 - chmod +x pg.sh
 - ./pg.sh 

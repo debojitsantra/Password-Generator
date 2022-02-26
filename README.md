@@ -8,5 +8,12 @@ Pass Gen Tool For Kali Linux, Ubuntu &amp; Termux
 - <code>wget https://raw.githubusercontent.com/darkesoul/pg/main/pg.sh</code><br>
 - <code>chmod +x pg.sh</code><br>
 - <code> ./pg.sh </code><br>
+
+# Installation (Only Termux)
+- <code>pkg upgrade & pkg upgrade</code><br>
+- <code>pkg install wget</code><br>
+- <code>pkg install sharutils</code><br>
+- <code>wget https://raw.githubusercontent.com/darkesoul/pg/main/pg.sh</code><br>
+- <code>wget 
 # Use
 - Just Enter Password Length!!

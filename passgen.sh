@@ -19,6 +19,7 @@ echo "   Written By Darke Soul"
 read -p "Pass Length: " P
 echo "Generating $P-character passwords"
 echo "
+
 "
 for ((n=0;n<$P;n++))
 do dd if=/dev/urandom count=1 2> /dev/null | uuencode -m - | sed -ne 2p | cut -c-$P

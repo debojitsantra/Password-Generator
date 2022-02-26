@@ -7,5 +7,6 @@ chmod 777 pg
 cd $HOME
 rm pg
 rm p
+rm pg.sh
 
 

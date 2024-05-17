@@ -11,8 +11,6 @@ echo "
 | |              | || |              | |
 | '--------------' || '--------------' |
  '----------------'  '----------------'   "
-
-echo "   Written By Darke Soul"
 #written by Darke Soul
 
 

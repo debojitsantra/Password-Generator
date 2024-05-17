@@ -4,8 +4,8 @@ rm p
 cd /data/data/com.termux/files/usr/bin
 rm pg
 
-wget https://raw.githubusercontent.com/darkesoul/pg/main/pg.sh
-wget https://raw.githubusercontent.com/darkesoul/pg/main/p
+wget https://raw.githubusercontent.com/debojitsantra/pg/main/pg.sh
+wget https://raw.githubusercontent.com/debojitsantra/pg/main/p
 
 bash p
 

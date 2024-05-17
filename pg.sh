@@ -11,8 +11,8 @@ echo "
 | |              | || |              | |
 | '--------------' || '--------------' |
  '----------------'  '----------------'   "
-#written by Darke Soul
-
+#written by debojitsantra
+echo "v0.0.1"
 
 read -p "Pass Length: " P
 echo "Generating $P-character passwords"

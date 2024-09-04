@@ -1,6 +1,6 @@
 cs#!/bin/bash
 cd $HOME
-echo "bash $HOME/pg.sh" > pg
+echo "bash $HOME/passwordgen.sh" > pg
 cp pg /data/data/com.termux/files/usr/bin
 cd /data/data/com.termux/files/usr/bin
 chmod 777 pg
